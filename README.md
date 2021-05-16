@@ -1,5 +1,5 @@
 # WorseCompanies
-An open platform to talk about your bad experiences with a company
+An open platform to talk about your bad experiences with any company anonymously.
 
 
 
@@ -31,4 +31,4 @@ We will also implement OAuth, Reacaptcha to prevent spam.
 
 **Let's collaborate and build this together**
 
-Intrested folks ✉️ hi@creativeshi.com
+Interested folks ✉️ hi@creativeshi.com
