@@ -12,7 +12,7 @@ An open platform to talk about your bad experiences with any company anonymously
 - Markdown
 
 # How will it work ?
-All the articles will be stored as markdown in particular folders in [Wrose company articles](https://github.com/WorseCompanies/worse-companies-articles)
+All the articles will be stored as markdown in particular folders in [Worse company articles](https://github.com/WorseCompanies/worse-companies-articles)
 
 For example **Got fired at Fkbook** will be `Fkbook\How I got fired for raising my voice\`
 The directory will have a `README.md` with images as proof respect to their post.
