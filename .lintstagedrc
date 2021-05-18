@@ -1,0 +1,5 @@
+{
+    "*.{js,jsx,ts,tsx}": ["npm run lint"],
+    "*.{js,jsx,ts,tsx,html,css,json,md,yaml,yml,graphql}": ["npm run format"]
+  }
+}
