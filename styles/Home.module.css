@@ -1,0 +1,56 @@
+.hero {
+	display: flex;
+	width: 100%;
+	min-height: 100vh;
+	justify-content: center;
+	align-items: center;
+	padding: 30px 120px;
+}
+
+.hero .illus,
+.data {
+	width: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.hero .data {
+	flex-direction: column;
+}
+.hero .data p {
+	margin: 10px 0;
+	font-size: 20px;
+	font-weight: 600;
+	width: 70%;
+	text-align: center;
+}
+.hero .data .btn {
+	padding: 15px 30px;
+	border-radius: 4px;
+	background-color: #1e90ff;
+	font-weight: 600;
+	margin: 10px;
+	color: #f6f6f6;
+}
+/* Tablet CSS */
+@media screen and (max-width: 768px) {
+	.hero {
+		flex-direction: column;
+		padding: 30px;
+	}
+	.hero .illus,
+	.data {
+		width: 100%;
+	}
+	.hero .illus {
+		margin-bottom: 20px;
+	}
+	.hero .illus img {
+		width: 60%;
+	}
+}
+
+/* Mobile CSS */
+@media screen and (max-width: 640px) {
+}
